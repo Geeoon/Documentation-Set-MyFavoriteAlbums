@@ -31,3 +31,30 @@
   * [albums_by_year.R](./docs/conceptual/developer/albums_by_year_R.md)
   * [vinyl.R](./docs/conceptual/developer/vinyl_R.md)
   * [compare_bands.R](./docs/conceptual/developer/compare_bands_R.md)
+
+* Tasks for End Users
+  * [Accessing My Favorite Albums](./docs/task/user/access.md)
+  * [Navigating My Favorite Albums](./docs/task/user/navigation.md)
+  * [Number One Albums](./docs/task/user/number_one.md)
+  * [Bands and Artists](./docs/task/user/bands_and_artists.md)
+  * [Top Albums by Year](./docs/task/user/top_albums.md)
+  * [Vinyl](./docs/task/user/vinyl.md)
+  * [Band Comparison](./docs/task/user/compare.md)
+
+* Tasks for Developers
+  * [Getting Started](./docs/task/developer/starting.md)
+    * [Installing R](./docs/task/developer/installing_R.md)
+    * [Installing RStudio](./docs/task/developer/installing_RStudio.md)
+    * [Installing Shiny and Other Dependencies](./docs/task/developer/installing_deps.md)
+    * [Cloning the Repository](./docs/task/developer/cloning.md)
+    * [Starting the Development Server](./docs/task/developer/dev_server.md)
+  * [Importing Your Own Data](./docs/task/developer/importing.md)
+    * [Creating a CSV File](./docs/task/developer/creating.md)
+    * [Importing the CSV File](./docs/task/developer/importing_csv.md)
+  * [Changing the Date Range](./docs/task/developer/date.md)
+  * [Publishing Your Version of My Favorite Albums](./docs/task/developer/publishing.md)
+    * [How to Make an Account on ShinyApps.io](./docs/task/developer/account.md)
+    * [How to Publish Your App](./docs/task/developer/publishing_app.md)
+* [API Reference](https://geeoon.github.io/MyFavoriteAlbums-Clone/index.html)
+* [Source Code with Comments](https://github.com/Geeoon/MyFavoriteAlbums-Clone)
+
