@@ -16,6 +16,15 @@
   * [Vinyl](./docs/conceptual/user/vinyl.md)
   * [Band Comparison](./docs/conceptual/user/band_compare.md)
 
+* Tasks for End Users
+  * [Accessing My Favorite Albums](./docs/task/user/access.md)
+  * [Navigating My Favorite Albums](./docs/task/user/navigation.md)
+  * [Number One Albums](./docs/task/user/number_one.md)
+  * [Bands and Artists](./docs/task/user/bands_and_artists.md)
+  * [Top Albums by Year](./docs/task/user/top_albums.md)
+  * [Vinyl](./docs/task/user/vinyl.md)
+  * [Band Comparison](./docs/task/user/compare.md)
+
 * Conceptual Overview For Developers
   * [Overview](./docs/conceptual/developer/overview.md)
   * [The Purpose of My Favorite Albums](./docs/conceptual/developer/purpose.md)
@@ -32,15 +41,6 @@
   * [vinyl.R](./docs/conceptual/developer/vinyl_R.md)
   * [compare_bands.R](./docs/conceptual/developer/compare_bands_R.md)
 
-* Tasks for End Users
-  * [Accessing My Favorite Albums](./docs/task/user/access.md)
-  * [Navigating My Favorite Albums](./docs/task/user/navigation.md)
-  * [Number One Albums](./docs/task/user/number_one.md)
-  * [Bands and Artists](./docs/task/user/bands_and_artists.md)
-  * [Top Albums by Year](./docs/task/user/top_albums.md)
-  * [Vinyl](./docs/task/user/vinyl.md)
-  * [Band Comparison](./docs/task/user/compare.md)
-
 * Tasks for Developers
   * [Getting Started](./docs/task/developer/starting.md)
     * [Installing R](./docs/task/developer/installing_R.md)
@@ -55,6 +55,5 @@
   * [Publishing Your Version of My Favorite Albums](./docs/task/developer/publishing.md)
     * [How to Make an Account on ShinyApps.io](./docs/task/developer/account.md)
     * [How to Publish Your App](./docs/task/developer/publishing_app.md)
-* [API Reference](https://geeoon.github.io/MyFavoriteAlbums-Clone/index.html)
-* [Source Code with Comments](https://github.com/Geeoon/MyFavoriteAlbums-Clone)
-
+* **[API Reference](https://geeoon.github.io/MyFavoriteAlbums-Clone/index.html)**
+* **[Source Code with Comments](https://github.com/Geeoon/MyFavoriteAlbums-Clone)**
