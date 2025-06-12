@@ -1,4 +1,7 @@
-# <a id="home-page"></a> My Favorite Albums
+# My Favorite Albums Documentation Set
 
-> Welcome to the My Favorite Albums documentation.
-This doc is split up into two sections.  One section is for end users.  The other section is for developers.  Refer to the headings on the left sidebar to select the right documentation set.
+Welcome to the doc set for My Favorite Albums, a program created by Chris Hostrom for ENGL 396: Software Documentation.
+
+This documentation set was created by Geeoon Chung for the final project.
+
+To view the finished and published documentation set, visit the GitHub Pages URL: https://geeoon.github.io/Documentation-Set-MyFavoriteAlbums/
