@@ -1,7 +1,7 @@
 <!-- _coverpage.md -->
 
-# BobaFinder <small>Alpha</small>
+# My Favorite Albums
 
-> BobaFinder Documentation
+> My Favorite Albums Documentation
 
 [Get Started](#home-page)
